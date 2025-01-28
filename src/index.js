@@ -27,18 +27,3 @@ app.listen(3001, ()=>{
     console.log("Server is running at 3001")
 
 })
-
-
-
-
-
-
-// mongoose.connect("mongodb+srv://peenly:peen2024@cluster0.k87ta.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-// .then(()=>{
-//     console.log("Connection Successful")
-
-// })
-
-// .catch(()=>{
-//     console.log("Connection Failed!")
-// })
