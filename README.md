@@ -37,6 +37,13 @@ Before you begin, ensure that you have met the following requirements:
    git clone https://github.com/Gideon-isa/bankit.git
 
 
+## access
+
+2. Swagger doc:
+
+   ```bash
+   http://localhost:3001/api-docs/
+
 
 # Financial Application Security and Backend Development
 
